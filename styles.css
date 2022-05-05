@@ -18,9 +18,8 @@
 .calc-display {
   text-align: right;
   color: #fff;
-  height: 70px;
-  line-height: 70px;
-  margin-top: 3rem;
+  height: 57px;
+  margin-top: 1.4rem;
   border-radius: 20px 20px 0px 0px;
   font-size: 50px;
   font-weight: 600;
@@ -35,7 +34,7 @@
   font-size: 30px;
   font-weight: 600;
   cursor: pointer;
-  border-radius: 30px;
+  border-radius: 80.5px;
   border: 2px solid rgb(155, 152, 152);
 }
 
@@ -58,15 +57,9 @@
   /* display: block;
   width: 100%;
   padding: 14px 28px */
-  border-radius: 15px 50px;
+  border-radius: 50px;
 }
 
 .calc-keys #zero {
-  border-radius: 50px 15px;
-}
-
-.calc-keys .blank {
-  border: none;
-  visibility: none;
-  opacity: 0;
+  border-radius: 50px;
 }
