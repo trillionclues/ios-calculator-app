@@ -2,6 +2,8 @@
 let result = document.querySelector('.calc-display')
 let keys = Array.from(document.getElementsByClassName('operator'))
 
+console.log(keys)
+
 // add event items
 
 keys.map((key) => {
